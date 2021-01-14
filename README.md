@@ -4,6 +4,7 @@
     OverSIP
     Kamailio
     Asterisk
+    opensip
     OfficeSIP
     reSIProcate and repro
     Frafos ABC SBC
