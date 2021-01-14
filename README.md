@@ -1,8 +1,7 @@
 # sip-list
 
     freeswitch
-    pjsip
-    exosip2
+    pjsip exosip2
     OverSIP
     Kamailio
     Asterisk
